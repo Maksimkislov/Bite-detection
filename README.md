@@ -19,3 +19,5 @@ Dental caries by mobile photoe Detection of dental caries in oral photographs ta
 Bite detection https://github.com/mauriciofg98/Bite-detection?ysclid=lp8c6bdpj665636179  
 
 
+[Folder link](https://github.com/Maksimkislov/Bite-detection/tree/main/Folder)  
+
